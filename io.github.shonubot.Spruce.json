@@ -1,7 +1,7 @@
 {
   "app-id": "io.github.shonubot.Spruce",
   "runtime": "org.gnome.Platform",
-  "runtime-version": "48",
+  "runtime-version": "49",
   "sdk": "org.gnome.Sdk",
   "command": "spruce",
   "finish-args": [
@@ -25,7 +25,7 @@
         {
           "type": "git",
           "url": "https://github.com/shonubot/Spruce.git",
-          "commit": "80687d9c9bff3a52e65092b6bb23ff7926acc2fa"
+          "commit": "e495b45dd74ed876aa8c10375677bb4303483722"
         }
       ]
     }
