@@ -25,8 +25,8 @@
         {
           "type": "git",
           "url": "https://github.com/shonubot/Spruce.git",
-          "tag": "0.1.7",
-          "commit": "6c99619827023c78b49fd96d74309dd9616b49f2"
+          "tag": "0.1.8",
+          "commit": "cb497c03155c96049d7ec1e0ebf967db3586f6b6"
         }
       ]
     }
